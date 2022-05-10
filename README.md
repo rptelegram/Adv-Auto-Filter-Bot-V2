@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://github.com/AlbertEinsteinTG/af-deploy-script">
-  <img src="https://www.herokucdn.com/deploy?template=https://github.com/rptelegram/Adv-Auto-Filter-Bot-V2/edit/main/README.md/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy?template=https://github.com/rptelegram/Adv-Auto-Filter-Bot-V2?organization=rptelegram&organization=rptelegram" alt="Deploy">
 </a>
 </p>
 </details>
